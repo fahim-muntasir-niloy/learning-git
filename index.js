@@ -16,12 +16,8 @@ var newVar = parseInt ("1601107")
 
 console.log(newVar + studentName);
 
-// creating random value
-var randomNumber = Math.random() * 20
+// creating a random value from 10-20
+var randomNumber = Math.round((Math.random() * 10)+10) 
+console.log(randomNumber);
 
-if (randomNumber>10){
-    console.log(Math.floor(randomNumber));
-}
-else{
-    console.log("less than 10");
-}
+//submitted by fahim muntasir
