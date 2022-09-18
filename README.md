@@ -1,1 +1,1 @@
-Git course from coursera and IBM.
+$ Git course from coursera and IBM.
