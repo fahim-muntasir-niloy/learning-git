@@ -1,1 +1,1 @@
-$ Git course from coursera and IBM.
+# `GIT course` from `coursera` and `IBM`.
