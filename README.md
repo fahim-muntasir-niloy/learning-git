@@ -1,2 +1,1 @@
-# learning-git
-# created a new branch from coursera course
+Git course from coursera and IBM.
